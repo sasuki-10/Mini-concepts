@@ -1,2 +1,2 @@
 # Mini-concepts
-1.AREA CALCULATOR
+  1. AREA CALCULATOR
