@@ -6,7 +6,7 @@ int main()
     {
       printf("ENTER THE PRICE:");    
       scanf("%d",&n);
-       sum=sum+n;
+      sum=sum+n;
     } 
     while(n>0);
      printf("Total price: %d",sum);
