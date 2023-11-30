@@ -137,7 +137,7 @@ while(choice!=5)
 	   
 	   	
    	    default:
-   		cout<<"\n**** THANK YOU ^_^ ****";
+   	    cout<<"\n**** THANK YOU ^_^ ****";
    	    break;
 	}	
  }
