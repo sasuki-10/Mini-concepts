@@ -10,11 +10,13 @@ int main()
 	cin>>n;
       
     for(i=0;i<=n;i++)
-        {
-    	    cout<<"number are:"<<i<<endl;
-	    sum=sum+i;   //sum
-        }
-        cout<<"sum is: "<<sum<<endl;
+       
+	    {
+	    	    cout<<"number are:"<<i<<endl;
+		    sum=sum+i;   //sum
+            }
+       
+	cout<<"sum is: "<<sum<<endl;
 	average=sum/n; // average
 	cout<<"average is: "<<average<<endl;
 	return 0;
