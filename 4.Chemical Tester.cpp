@@ -12,11 +12,11 @@ int main()
   if(pH>7.0)
     cout<<"CHEMICAL IS BASIC ☺"<<endl;
     
-         else if(pH<7.0)
-          cout<<"CHEMICAL IS ACIDIC ☺"<<endl;
+  else if(pH<7.0)
+      cout<<"CHEMICAL IS ACIDIC ☺"<<endl;
           
-             else
-              cout<<"CHEMICAL IS NEUTRAL ☺"<<endl;
+   else
+        cout<<"CHEMICAL IS NEUTRAL ☺"<<endl;
 
     cout<<"Enter the name of chemical: ";
     cin>>chemical;
