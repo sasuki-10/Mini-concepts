@@ -14,9 +14,9 @@ float circle(float r)
 
 void area(float a,float b)
 {
-  float s;
-  s=(a*b)/2;
-  cout<<"Area of triangle:"<<s;
+	  float s;
+	  s=(a*b)/2;
+	  cout<<"Area of triangle:"<<s;
 
 }
 
@@ -44,9 +44,9 @@ void perimeter(float a,float b)
 
 void square(float a)
 {
-  float e;
-  e=a*a;
-  cout<<"\nArea of square:"<<e;
+	  float e;
+	  e=a*a;
+	  cout<<"\nArea of square:"<<e;
   
 }
 
@@ -60,9 +60,9 @@ void sq(float a)
 
 void rectangle(float a,float b)
 {
-  float g;
-  g=a*b;
-  cout<<"\nArea of Rectangle:"<<g;
+	  float g;
+	  g=a*b;
+	  cout<<"\nArea of Rectangle:"<<g;
 }
 
 void rect(float a,float b)
@@ -75,12 +75,12 @@ void rect(float a,float b)
 	
 int main()
 {
-cout<<" ***************AREA CALCULATOR*****************"<<endl<<endl;
-cout<<"\n\n    1. AREA OF CIRCLE";
-cout<<"\n    2. AREA OF TRIANGLE";
-cout<<"\n    3. AREA OF SQUARE";
-cout<<"\n    4. AREA OF RECTANGLE";
-cout<<"\n    5. Exit";
+		cout<<" ***************AREA CALCULATOR*****************"<<endl<<endl;
+		cout<<"\n\n    1. AREA OF CIRCLE";
+		cout<<"\n    2. AREA OF TRIANGLE";
+		cout<<"\n    3. AREA OF SQUARE";
+		cout<<"\n    4. AREA OF RECTANGLE";
+		cout<<"\n    5. Exit";
 int choice;
 
 
