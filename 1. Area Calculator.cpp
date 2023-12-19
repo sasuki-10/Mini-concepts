@@ -11,7 +11,6 @@ float circle(float r)
 	cout<<"\nCircumference of circle:"<<c;
 }
 
-
 void area(float a,float b)
 {
 	  float s;
@@ -72,7 +71,6 @@ void rect(float a,float b)
 	cout<<"\nPerimeter of Rectangle:"<<h;
 }
 
-	
 int main()
 {
 		cout<<" ***************AREA CALCULATOR*****************"<<endl<<endl;
@@ -135,8 +133,7 @@ while(choice!=5)
 	    rect(r,t);
 	    break;
 	   
-	   	
-   	    default:
+	    default:
    	    cout<<"\n**** THANK YOU ^_^ ****";
    	    break;
 	}	
