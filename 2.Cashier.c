@@ -11,5 +11,5 @@ int main()
     while(n>0);
        printf("Total price: %d",sum);
        printf("\nTHANKING YOU ^_^");
-    //enter the value "0" when there is no item left in your basket...
+     //enter the value "0" when there is no item left in your basket...
 } 
